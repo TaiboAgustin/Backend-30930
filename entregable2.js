@@ -72,5 +72,5 @@ const container = new Contenedor ('text.txt');
 // container.getById(3);
 //container.getAll();
 //container.deleteById(4);
-container.deleteAll();
+//container.deleteAll();
 
